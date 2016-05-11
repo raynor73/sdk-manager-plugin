@@ -59,7 +59,7 @@ dependencies {
 }
 
 group = 'com.jakewharton.sdkmanager'
-version = '1.5.0-SNAPSHOT'
+version = '1.5.0-prl2'
 
 install {
   repositories.mavenInstaller {
