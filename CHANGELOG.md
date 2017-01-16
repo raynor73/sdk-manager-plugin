@@ -4,7 +4,7 @@ Change Log
 Version 1.5.0 *(In Development)*
 --------------------------------
 
- * New: Support for the 1.5.x Android plugin.
+ * New: Support for the 1.3.1 Android plugin.
  * New: SDK Tools will be updated if version is older than defined with sdkManager.minSdkToolsVersion
    in build.gradle:
       sdkManager {
